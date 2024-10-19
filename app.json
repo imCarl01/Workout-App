@@ -3,6 +3,10 @@
     "name": "Fitness_WorkApp",
     "slug": "Fitness_WorkApp",
     "version": "1.0.0",
+    "extra": {
+      "BASE_URL_ExceriseDB": "https://exercisedb.p.rapidapi.com",
+      "MY_API_KEY": "9cdb4bd73dmsh62e8152fe98a1b7p1538b1jsn1cdb9aac5888"
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
